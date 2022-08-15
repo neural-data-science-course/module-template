@@ -21,6 +21,7 @@ See https://github.com/neural-data-science-course/population-methods for an exam
   - [ ] Adapt setup instructions if necessary
   - [ ] Add details about the contributors of this module
   - [ ] If you want, add how this module should be cited
+  - [ ] Remove (or comment out) these instructions
  
 ### How to create my first lesson?
    - [ ] Use the `01-lesson1` folder as an example
@@ -28,6 +29,9 @@ See https://github.com/neural-data-science-course/population-methods for an exam
    - [ ] Adapt the `exercises.ipynb`, you can add separate exercises without answers here, these can be used for assignments.
    - [ ] If necessary add code you use in the notebook in the `code` folder
 
+### What other changes should I make?
+   - [ ] Update the `instructor-notes.md` file with instructions for the instructor teaching this module.
+   - [ ] Update the `requirements.txt` file with python packages necessary for this module.
 ----
 
 # Module [number]: [module name] 
