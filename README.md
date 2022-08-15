@@ -26,8 +26,12 @@ See https://github.com/neural-data-science-course/population-methods for an exam
 ### How to create my first lesson?
    - [ ] Use the `01-lesson1` folder as an example
    - [ ] Adapt the `lesson-title.ipynb`, this should be the main explanatory resource used for teaching.
+      1. Try to stick to the template as much as possible, so all lessons in the course have a similar look and feel.
+      2. Try to fill the 'In this lesson you will learn' on top and 'Keypoints' in the bottom of the notebook as well as possible. 
+         This will provide a natural intro and ending to the notebook and gives a lot of structure to the course.
    - [ ] Adapt the `exercises.ipynb`, you can add separate exercises without answers here, these can be used for assignments.
    - [ ] If necessary add code you use in the notebook in the `code` folder
+   - [ ] To add more lessons, just add more folders with a similar structure
 
 ### What other changes should I make?
    - [ ] Update the `instructor-notes.md` file with instructions for the instructor teaching this module.
