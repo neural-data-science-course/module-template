@@ -94,8 +94,11 @@ This module was created by:
 * contributor 1  
 * contributor 2  
 
-## License
+## Cite
+If you use this module, please cite it as:
 
+
+## License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -108,5 +111,4 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## Citation
-If you want to cite this module, please use:
+You are free to use, modify and redistribute the material in any form, even commercially, as long as you give appropriate credit and indicate if changes were made.
